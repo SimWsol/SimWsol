@@ -44,9 +44,8 @@ CS student who learns by building things and breaking them first.
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SimWsol&hide_border=true&theme=github-dark-blue" />
   <img src="https://streak-stats.demolab.com?user=SimWsol&hide_border=true" alt="Contribution streak" />
 </picture>
+
 ---
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SimWsol/SimWsol/output/github-contribution-grid-snake-dark.svg" />
