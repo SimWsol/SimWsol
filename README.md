@@ -5,7 +5,7 @@ CS student who learns by building things and breaking them first.
 ## About me
  
 - 🎓 Studying Computer Science at NTNU
-- - 🌱 Currently learning **Low level programming**
+- 🌱 Currently learning **Low level programming**
 - 🔭 Working on **a text editor written in C**
 <!-- - 📫 Reach me at **[email]** or on [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) -->
 ## Featured projects
