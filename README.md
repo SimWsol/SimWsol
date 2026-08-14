@@ -8,44 +8,33 @@ CS student who learns by building things and breaking them first.
 - 🌱 Currently learning **Low level programming**
 - 🔭 Working on **a text editor written in C**
 <!-- - 📫 Reach me at **[email]** or on [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) -->
+
 ## Featured projects
  
-<!-- Pin cards: change repo= to any of your repositories. Add or remove rows as needed. -->
- 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/SimWsol/rune">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SimWsol&repo=rune&hide_border=true" alt="rune" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/SimWsol/rune">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile/pin-rune-dark.svg" />
+    <img src="profile/pin-rune.svg" alt="rune" />
+  </picture>
+</a>
 
 ## GitHub stats
  
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SimWsol&show_icons=true&hide_border=true&theme=github_dark" />
-        <img src="https://github-readme-stats.vercel.app/api?username=SimWsol&show_icons=true&hide_border=true" alt="GitHub stats" />
-      </picture>
-    </td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SimWsol&layout=compact&hide_border=true&theme=github_dark" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimWsol&layout=compact&hide_border=true" alt="Top languages" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/stats-dark.svg" />
+  <img src="profile/stats.svg" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/top-langs-dark.svg" />
+  <img src="profile/top-langs.svg" alt="Top languages" />
+</picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SimWsol&hide_border=true&theme=github-dark-blue" />
   <img src="https://streak-stats.demolab.com?user=SimWsol&hide_border=true" alt="Contribution streak" />
 </picture>
 
 ---
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SimWsol/SimWsol/output/github-contribution-grid-snake-dark.svg" />
