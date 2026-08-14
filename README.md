@@ -21,6 +21,7 @@ CS student who learns by building things and breaking them first.
     </td>
   </tr>
 </table>
+
 ## GitHub stats
  
 <table>
